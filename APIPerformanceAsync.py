@@ -29,7 +29,7 @@ import time
 import requests # HTTP requests - pip install requests
 import socks # to send through vlabs tunnel - pip install pysocks
 # home grown lib
-from msslLib.GenCsr import GenCsr # Generates CSR
+from GenCsr import GenCsr # Generates CSR
 
 
 
